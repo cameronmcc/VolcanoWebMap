@@ -1,0 +1,1 @@
+A Python flask web map that displays volcano locations, heights, and population data. Uses Folium and utilizes a multi layer stystem to display different data with functionality to view different layers of data as well as some pop up data when you hover over elements.
